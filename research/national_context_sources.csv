@@ -1,0 +1,5 @@
+indicator,unit,source,source_url,notes
+Rainfall,mm,India Meteorological Department,https://imdpune.gov.in/cmpg/Griddata/Rainfall_25_NetCDF.html,Choose exact grid and date range; record dataset version
+Groundwater level,m below ground level,Central Ground Water Board,https://gwdata.cgwb.gov.in/,Station-specific observation; not a direct water volume
+Water datasets,varies,National Water Data Portal,https://nwdp.nwic.gov.in/,Inspect each dataset metadata and licence
+Open government datasets,varies,Open Government Data Platform India,https://www.data.gov.in/,Record publisher, period, units and source URL
